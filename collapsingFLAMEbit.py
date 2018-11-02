@@ -1,7 +1,7 @@
 
 # coding: utf-8
 
-# Collapsing FLAME
+# Collapsing FLAME refers to the D-AEMR algorithm
 # ---
 
 # In[1]:
