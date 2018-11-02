@@ -19,7 +19,9 @@ We aim to create the highest possible quality of treatment-control matches for c
 The "experiments" folder contains jupyter notebooks to reproduce the results from the paper.
 Please follow the instructions in the notebooks to run the FLAME algorithms and obtain the dataframe for the matched groups and estimated CATEs.
 
-**All scripts are in Python**.
+**All scripts are in Python**. 
+**In the code, "Collapsing FLAME" refers to the D-AEMR algorithm**. 
+
 
 ## Citation
 If you use this code, please cite:
