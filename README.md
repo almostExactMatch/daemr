@@ -8,7 +8,7 @@ We aim to create the highest possible quality of treatment-control matches for c
 ## Run
 * **Step1**: clone this repository
 
-      git clone https://github.com/almostExactMatch/collapsingFLAME.git
+      git clone https://github.com/almostExactMatch/daemr.git
       
 * **Step2**: Make sure all required packages are up-to-date (see requirements.txt);
 
@@ -26,7 +26,7 @@ If you use this code, please cite:
 
       @article{2018arXiv180606802D,
           author = {{Dieng}, A. and {Liu}, Y. and {Roy}, S. and {Rudin}, C. and {Volfovsky}, A.},
-          title = "{Collapsing-Fast-Large-Almost-Matching-Exactly: A Matching Method for Causal Inference}",
+          title = "{Almost-Exact Matching with Replacement for Causal Inference}",
           journal = {ArXiv e-prints},
           archivePrefix = "arXiv",
           eprint = {1806.06802},
