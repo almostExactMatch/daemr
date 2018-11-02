@@ -34,4 +34,4 @@ If you use this code, please cite:
           month = jun,
           }
 
-Contact adieng@cs.duke.edu for inquiries.
+Contact awa.dieng@duke.edu for inquiries.
