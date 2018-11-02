@@ -31,7 +31,7 @@ If you use this code, please cite:
           archivePrefix = "arXiv",
           eprint = {1806.06802},
           year = 2018,
-          month = jun,
+          month = nov,
           }
 
 Contact awa.dieng@duke.edu for inquiries.
